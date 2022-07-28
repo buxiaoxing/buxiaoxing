@@ -48,4 +48,15 @@ Here are some ideas to get you started:
 ### 📖博客最近更新
 
 <!-- BLOG-POST-LIST:START -->
+- 🐘 [js基础-继承](https://www.buxiaoxing.com/post/61e8.html) 
+
+- 🦩 [serverless部署hexo博客，免费托管在腾讯云上](https://www.buxiaoxing.com/post/5b43.html) 
+
+- 🤠 [hexo-yilia主题支持twikoo评论系统](https://www.buxiaoxing.com/post/c831.html) 
+
+- 🧠 [js基础-call和apply](https://www.buxiaoxing.com/post/b715.html) 
+
+- 👹 [js基础-原型](https://www.buxiaoxing.com/post/c096.html) 
+
+- 💫 [js基础-对象](https://www.buxiaoxing.com/post/a32d.html) 
 <!-- BLOG-POST-LIST:END -->
