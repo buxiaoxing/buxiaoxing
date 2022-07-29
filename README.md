@@ -48,15 +48,15 @@ Here are some ideas to get you started:
 ### 📖博客最近更新
 
 <!-- BLOG-POST-LIST:START -->
-- 🐘 [js基础-window](https://www.buxiaoxing.com/post/6199.html) 
+- 🐘 [linux常用命令](https://www.buxiaoxing.com/post/767f.html) 
 
-- 🦩 [js基础-Date](https://www.buxiaoxing.com/post/5309.html) 
+- 🦩 [docker基础命令](https://www.buxiaoxing.com/post/80e1.html) 
 
-- 🤠 [js基础-dom](https://www.buxiaoxing.com/post/a964.html) 
+- 🤠 [js基础-js的特点](https://www.buxiaoxing.com/post/9f67.html) 
 
-- 🧠 [js基础-es5.0](https://www.buxiaoxing.com/post/894c.html) 
+- 🧠 [js基础-Math](https://www.buxiaoxing.com/post/acb.html) 
 
-- 👹 [js基础-try-catch](https://www.buxiaoxing.com/post/e5b9.html) 
+- 👹 [js基础-正则表达式](https://www.buxiaoxing.com/post/cd27.html) 
 
-- 💫 [js基础-数组](https://www.buxiaoxing.com/post/7101.html) 
+- 💫 [js基础-js异步加载](https://www.buxiaoxing.com/post/6f71.html) 
 <!-- BLOG-POST-LIST:END -->
