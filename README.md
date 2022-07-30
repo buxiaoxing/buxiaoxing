@@ -48,15 +48,15 @@ Here are some ideas to get you started:
 ### 📖博客最近更新
 
 <!-- BLOG-POST-LIST:START -->
-- 🐘 [linux常用命令](https://www.buxiaoxing.com/post/767f.html) 
+- 🐘 [es6-数字](https://www.buxiaoxing.com/post/b20c.html) 
 
-- 🦩 [docker基础命令](https://www.buxiaoxing.com/post/80e1.html) 
+- 🦩 [es6-字符串](https://www.buxiaoxing.com/post/7f75.html) 
 
-- 🤠 [js基础-js的特点](https://www.buxiaoxing.com/post/9f67.html) 
+- 🤠 [es6-Proxy与Reflect](https://www.buxiaoxing.com/post/6cc8.html) 
 
-- 🧠 [js基础-Math](https://www.buxiaoxing.com/post/acb.html) 
+- 🧠 [es6-Map与Set](https://www.buxiaoxing.com/post/721.html) 
 
-- 👹 [js基础-正则表达式](https://www.buxiaoxing.com/post/cd27.html) 
+- 👹 [es6-symbol](https://www.buxiaoxing.com/post/c61a.html) 
 
-- 💫 [js基础-js异步加载](https://www.buxiaoxing.com/post/6f71.html) 
+- 💫 [es6-结构赋值](https://www.buxiaoxing.com/post/f81e.html) 
 <!-- BLOG-POST-LIST:END -->
